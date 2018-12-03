@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">task4-1.</string>
+    <string name="Button_send">send</string>
+    <string name="edit_message">example</string>
+    <string name="textview">TextView</string>
+</resources>
